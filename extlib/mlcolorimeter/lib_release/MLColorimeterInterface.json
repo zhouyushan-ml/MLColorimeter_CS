@@ -1,0 +1,11 @@
+{
+    "Name": "MLColorimeterPlugin",
+    "PluginApplication": "true",
+    "Version": "0.0.1",
+    "Vendor": "MLO",
+    "Copyright": "(C) MLO",
+    "License": "Put short license information here",
+    "Description": "Colorimeter business manage and calibration process",
+    "Url": "https://mloptic.com/",
+    "Dependencies": []
+}
